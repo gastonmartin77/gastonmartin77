@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is a github account that I used to work for Mercado Libre back in 2019
+This is a github account that I've used to work for Mercado Libre back in 2019
 At that time I was requested to setup my account in certain specific way, so I used a separate account for contributing to the company repositories to avoid a general reconfiguration of my personal account. 
 
 My main personal account is [gaston-martin](https://github.com/gaston-martin)
